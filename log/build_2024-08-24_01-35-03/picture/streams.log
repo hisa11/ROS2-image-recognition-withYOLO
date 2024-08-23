@@ -1,0 +1,24 @@
+[0.428s] Invoking command in '/home/hisa/ROS2/YOLO/src/picture': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/hisa/ROS2/YOLO/build/picture/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hisa/ROS2/YOLO/install/picture/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/picture build --build-base /home/hisa/ROS2/YOLO/build/picture/build install --record /home/hisa/ROS2/YOLO/build/picture/install.log --single-version-externally-managed install_data
+[0.568s] running egg_info
+[0.576s] writing ../../build/picture/picture.egg-info/PKG-INFO
+[0.577s] writing dependency_links to ../../build/picture/picture.egg-info/dependency_links.txt
+[0.577s] writing entry points to ../../build/picture/picture.egg-info/entry_points.txt
+[0.577s] writing requirements to ../../build/picture/picture.egg-info/requires.txt
+[0.577s] writing top-level names to ../../build/picture/picture.egg-info/top_level.txt
+[0.594s] reading manifest file '../../build/picture/picture.egg-info/SOURCES.txt'
+[0.595s] writing manifest file '../../build/picture/picture.egg-info/SOURCES.txt'
+[0.595s] running build
+[0.595s] running build_py
+[0.595s] copying picture/picture.py -> /home/hisa/ROS2/YOLO/build/picture/build/lib/picture
+[0.595s] running install
+[0.599s] running install_lib
+[0.610s] copying /home/hisa/ROS2/YOLO/build/picture/build/lib/picture/picture.py -> /home/hisa/ROS2/YOLO/install/picture/lib/python3.12/site-packages/picture
+[0.610s] byte-compiling /home/hisa/ROS2/YOLO/install/picture/lib/python3.12/site-packages/picture/picture.py to picture.cpython-312.pyc
+[0.611s] running install_data
+[0.611s] running install_egg_info
+[0.621s] removing '/home/hisa/ROS2/YOLO/install/picture/lib/python3.12/site-packages/picture-0.0.0-py3.12.egg-info' (and everything under it)
+[0.622s] Copying ../../build/picture/picture.egg-info to /home/hisa/ROS2/YOLO/install/picture/lib/python3.12/site-packages/picture-0.0.0-py3.12.egg-info
+[0.622s] running install_scripts
+[0.690s] Installing picture script to /home/hisa/ROS2/YOLO/install/picture/lib/picture
+[0.690s] writing list of installed files to '/home/hisa/ROS2/YOLO/build/picture/install.log'
+[0.710s] Invoked command in '/home/hisa/ROS2/YOLO/src/picture' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/hisa/ROS2/YOLO/build/picture/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hisa/ROS2/YOLO/install/picture/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/picture build --build-base /home/hisa/ROS2/YOLO/build/picture/build install --record /home/hisa/ROS2/YOLO/build/picture/install.log --single-version-externally-managed install_data

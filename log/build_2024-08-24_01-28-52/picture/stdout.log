@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/picture/picture.egg-info
+writing ../../build/picture/picture.egg-info/PKG-INFO
+writing dependency_links to ../../build/picture/picture.egg-info/dependency_links.txt
+writing entry points to ../../build/picture/picture.egg-info/entry_points.txt
+writing requirements to ../../build/picture/picture.egg-info/requires.txt
+writing top-level names to ../../build/picture/picture.egg-info/top_level.txt
+writing manifest file '../../build/picture/picture.egg-info/SOURCES.txt'
+reading manifest file '../../build/picture/picture.egg-info/SOURCES.txt'
+writing manifest file '../../build/picture/picture.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/hisa/ROS2/YOLO/build/picture/build
+creating /home/hisa/ROS2/YOLO/build/picture/build/lib
+creating /home/hisa/ROS2/YOLO/build/picture/build/lib/picture
+copying picture/picture.py -> /home/hisa/ROS2/YOLO/build/picture/build/lib/picture
+copying picture/__init__.py -> /home/hisa/ROS2/YOLO/build/picture/build/lib/picture
+running install
+running install_lib
+creating /home/hisa/ROS2/YOLO/install/picture/lib/python3.12/site-packages/picture
+copying /home/hisa/ROS2/YOLO/build/picture/build/lib/picture/picture.py -> /home/hisa/ROS2/YOLO/install/picture/lib/python3.12/site-packages/picture
+copying /home/hisa/ROS2/YOLO/build/picture/build/lib/picture/__init__.py -> /home/hisa/ROS2/YOLO/install/picture/lib/python3.12/site-packages/picture
+byte-compiling /home/hisa/ROS2/YOLO/install/picture/lib/python3.12/site-packages/picture/picture.py to picture.cpython-312.pyc
+byte-compiling /home/hisa/ROS2/YOLO/install/picture/lib/python3.12/site-packages/picture/__init__.py to __init__.cpython-312.pyc
+running install_data
+creating /home/hisa/ROS2/YOLO/install/picture/share/ament_index
+creating /home/hisa/ROS2/YOLO/install/picture/share/ament_index/resource_index
+creating /home/hisa/ROS2/YOLO/install/picture/share/ament_index/resource_index/packages
+copying resource/picture -> /home/hisa/ROS2/YOLO/install/picture/share/ament_index/resource_index/packages
+copying package.xml -> /home/hisa/ROS2/YOLO/install/picture/share/picture
+running install_egg_info
+Copying ../../build/picture/picture.egg-info to /home/hisa/ROS2/YOLO/install/picture/lib/python3.12/site-packages/picture-0.0.0-py3.12.egg-info
+running install_scripts
+Installing picture script to /home/hisa/ROS2/YOLO/install/picture/lib/picture
+writing list of installed files to '/home/hisa/ROS2/YOLO/build/picture/install.log'

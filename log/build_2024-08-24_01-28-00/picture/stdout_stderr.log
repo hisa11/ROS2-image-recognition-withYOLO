@@ -1,0 +1,22 @@
+running egg_info
+writing ../../build/picture/picture.egg-info/PKG-INFO
+writing dependency_links to ../../build/picture/picture.egg-info/dependency_links.txt
+writing entry points to ../../build/picture/picture.egg-info/entry_points.txt
+writing requirements to ../../build/picture/picture.egg-info/requires.txt
+writing top-level names to ../../build/picture/picture.egg-info/top_level.txt
+reading manifest file '../../build/picture/picture.egg-info/SOURCES.txt'
+writing manifest file '../../build/picture/picture.egg-info/SOURCES.txt'
+running build
+running build_py
+copying picture/picture.py -> /home/hisa/ROS2/YOLO/build/picture/build/lib/picture
+running install
+running install_lib
+copying /home/hisa/ROS2/YOLO/build/picture/build/lib/picture/picture.py -> /home/hisa/ROS2/YOLO/install/picture/lib/python3.12/site-packages/picture
+byte-compiling /home/hisa/ROS2/YOLO/install/picture/lib/python3.12/site-packages/picture/picture.py to picture.cpython-312.pyc
+running install_data
+running install_egg_info
+removing '/home/hisa/ROS2/YOLO/install/picture/lib/python3.12/site-packages/picture-0.0.0-py3.12.egg-info' (and everything under it)
+Copying ../../build/picture/picture.egg-info to /home/hisa/ROS2/YOLO/install/picture/lib/python3.12/site-packages/picture-0.0.0-py3.12.egg-info
+running install_scripts
+Installing picture script to /home/hisa/ROS2/YOLO/install/picture/lib/picture
+writing list of installed files to '/home/hisa/ROS2/YOLO/build/picture/install.log'
